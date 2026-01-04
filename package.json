@@ -1,6 +1,6 @@
 {
   "name": "@pricidoncinema/contracts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -9,7 +9,8 @@
   },
   "files": [
     "proto",
-    "gen"
+    "gen",
+    "dist"
   ],
   "publishConfig": {
     "access": "public"
